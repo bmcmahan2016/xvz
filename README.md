@@ -1,4 +1,4 @@
-# xvz
+# X-VisualiZation (XVZ) Callbacks for TensorFlow 
 TensorFlow callbacks for visualizing weights and activations in deep convolutional neural network models
 
 I built this API for a few TensorFlow callbacks to make it easier to debug deep CNN models during training. XVZ contains three custom callbacks that allow for the weights and activations to be saved to a tensorboard at the end of each training epoch.
